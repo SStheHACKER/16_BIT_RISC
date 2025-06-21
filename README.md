@@ -39,6 +39,5 @@ A 16-bit RISC processor with a custom instruction set architecture (ISA), design
 
 - **Verilog HDL**
 - **Xilinx Vivado 2023**
-- **Git & GitHub for version control**
 
 ---

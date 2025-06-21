@@ -5,9 +5,6 @@ A 16-bit RISC processor with a custom instruction set architecture (ISA), design
 ## 📅 Duration
 **December 2024 – January 2025**
 
-## 👨‍💻 Team
-This was a collaborative group project. [GitHub link to contributors, if any]
-
 ---
 
 ## 🚀 Features

@@ -6,6 +6,8 @@ A 16-bit RISC processor with a custom instruction set architecture (ISA), design
 **December 2024 – January 2025**
 
 ---
+![image](https://github.com/user-attachments/assets/35aa6490-2e24-4810-b01b-6682ae530ada)
+
 
 ## 🚀 Features
 
@@ -24,6 +26,8 @@ A 16-bit RISC processor with a custom instruction set architecture (ISA), design
   4. Execute (EX)  
   5. Memory Access (MEM)  
   6. Write Back (WB)
+
+![image](https://github.com/user-attachments/assets/be6a420f-8e39-43d1-9599-280b74be233b)
 
 - **Hazard Mitigation**
   - Implemented mechanisms to handle **data hazards** and **control hazards**.
